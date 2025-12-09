@@ -9183,16 +9183,16 @@
         },
         {
             "name": "wallacemartinss/filament-icon-picker",
-            "version": "v1.4.2",
+            "version": "v1.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wallacemartinss/filament-icon-picker.git",
-                "reference": "24c4255d5a3f70b0e958e2eb17409634d9b8b19d"
+                "reference": "9ef04217713bd088b12b9380cfc1b78b5a16dc5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wallacemartinss/filament-icon-picker/zipball/24c4255d5a3f70b0e958e2eb17409634d9b8b19d",
-                "reference": "24c4255d5a3f70b0e958e2eb17409634d9b8b19d",
+                "url": "https://api.github.com/repos/wallacemartinss/filament-icon-picker/zipball/9ef04217713bd088b12b9380cfc1b78b5a16dc5c",
+                "reference": "9ef04217713bd088b12b9380cfc1b78b5a16dc5c",
                 "shasum": ""
             },
             "require": {
@@ -9255,9 +9255,9 @@
             ],
             "support": {
                 "issues": "https://github.com/wallacemartinss/filament-icon-picker/issues",
-                "source": "https://github.com/wallacemartinss/filament-icon-picker/tree/v1.4.2"
+                "source": "https://github.com/wallacemartinss/filament-icon-picker/tree/v1.4.4"
             },
-            "time": "2025-12-07T01:09:44+00:00"
+            "time": "2025-12-08T15:12:49+00:00"
         },
         {
             "name": "wallacemartinss/filament-whatsapp-conector",
@@ -13075,5 +13075,5 @@
         "ext-pcntl": "7.1",
         "ext-posix": "7.1"
     },
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.6.0"
 }
