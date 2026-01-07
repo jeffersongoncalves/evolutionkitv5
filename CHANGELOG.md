@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.5.0 - 2026-01-07
+
+### What's Changed
+
+* Add funding configuration for GitHub by @jeffersongoncalves in https://github.com/jeffersongoncalves/evolutionkitv4/pull/13
+* Add funding information for wallacemartinss by @jeffersongoncalves in https://github.com/jeffersongoncalves/evolutionkitv4/pull/14
+* Update FUNDING.yml by @jeffersongoncalves in https://github.com/jeffersongoncalves/evolutionkitv4/pull/15
+* build(deps): bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/16
+* build(deps-dev): bump laravel/pint from 1.26.0 to 1.27.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/17
+* build(deps): bump the actions-deps group with 3 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/evolutionkitv4/pull/18
+
+### New Contributors
+
+* @jeffersongoncalves made their first contribution in https://github.com/jeffersongoncalves/evolutionkitv4/pull/13
+
+**Full Changelog**: https://github.com/jeffersongoncalves/evolutionkitv4/compare/4.4.0...4.5.0
+
 ## 4.4.0 - 2025-12-30
 
 ### What's Changed
