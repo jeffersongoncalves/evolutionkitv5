@@ -1,31 +1,32 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "jeffersongoncalves/evolutionkitv4",
+    "name": "jeffersongoncalves/evolutionkitv5",
     "type": "project",
-    "description": "EvolutionKit starter kit built on Laravel 12.x and Filament 4.x with a ready-to-use multi-panel structure.",
+    "description": "EvolutionKit starter kit built on Laravel 12.x and Filament 5.x with a ready-to-use multi-panel structure.",
     "keywords": [
         "laravel-starter-kit",
         "starter-kit",
         "filament-starter-kit",
         "laravel",
         "filament",
-        "filament-v4",
+        "filament-v5",
         "livewire",
+        "livewire-v4",
         "tailwindcss"
     ],
     "license": "MIT",
     "require": {
         "php": "^8.3",
-        "achyutn/filament-log-viewer": "^1.2",
+        "achyutn/filament-log-viewer": "^2.0",
         "dutchcodingcompany/filament-developer-logins": "^2.1",
-        "filament/filament": "^4.5",
-        "jeffersongoncalves/filament-logo": "^2.0",
-        "joaopaulolndev/filament-edit-profile": "^2.0",
+        "filament/filament": "^5.0",
+        "jeffersongoncalves/filament-logo": "^3.0",
+        "joaopaulolndev/filament-edit-profile": "^3.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
-        "livewire/livewire": "^3.7",
-        "wallacemartinss/filament-icon-picker": "^1.4",
-        "wallacemartinss/filament-whatsapp-conector": "^1.0"
+        "livewire/livewire": "^4.0",
+        "wallacemartinss/filament-icon-picker": "^2.0",
+        "wallacemartinss/filament-whatsapp-conector": "^2.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^4.0",

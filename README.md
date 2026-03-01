@@ -1,20 +1,21 @@
 <div class="filament-hidden">
 
-![EvolutionKit](https://raw.githubusercontent.com/jeffersongoncalves/evolutionkitv4/main/art/jeffersongoncalves-evolutionkitv4.png)
+![EvolutionKit](https://raw.githubusercontent.com/jeffersongoncalves/evolutionkitv5/main/art/jeffersongoncalves-evolutionkitv5.png)
 
 </div>
 
-# EvolutionKit Start Kit Filament 4.x and Laravel 12.x
+# EvolutionKit Start Kit Filament 5.x and Laravel 12.x
 
 ## About EvolutionKit
 
-EvolutionKit is a robust starter kit built on Laravel 12.x and Filament 4.x, designed to accelerate the development of modern
+EvolutionKit is a robust starter kit built on Laravel 12.x and Filament 5.x, designed to accelerate the development of modern
 web applications with a ready-to-use multi-panel structure.
 
 ## Features
 
 - **Laravel 12.x** - The latest version of the most elegant PHP framework
-- **Filament 4.x** - Powerful and flexible admin framework
+- **Filament 5.x** - Powerful and flexible admin framework
+- **Livewire 4.x** - Full-stack framework for dynamic interfaces
 - **Multi-Panel Structure** - Includes three pre-configured panels:
     - Admin Panel (`/admin`) - For system administrators
     - App Panel (`/app`) - For authenticated application users
@@ -31,7 +32,7 @@ web applications with a ready-to-use multi-panel structure.
 
 Clone the repository
 ``` bash
-laravel new my-app --using=jeffersongoncalves/evolutionkitv4
+laravel new my-app --using=jeffersongoncalves/evolutionkitv5
 ```
 
 ### Using FilaKit CLI
@@ -39,7 +40,7 @@ laravel new my-app --using=jeffersongoncalves/evolutionkitv4
 Or use [FilaKit CLI](https://github.com/jeffersongoncalves/filakit-cli) for a simplified setup:
 
 ```bash
-filakit new my-app --kit=jeffersongoncalves/evolutionkitv4
+filakit new my-app --kit=jeffersongoncalves/evolutionkitv5
 ```
 
 > Install FilaKit CLI: `composer global require jeffersongoncalves/filakit-cli`
@@ -93,7 +94,7 @@ php artisan serve
 
 Clone the repository
 ```bash
-laravel new my-app --using=jeffersongoncalves/evolutionkitv4 --database=mysql
+laravel new my-app --using=jeffersongoncalves/evolutionkitv5 --database=mysql
 ```
 
 Move into the project directory
