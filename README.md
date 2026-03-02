@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![EvolutionKit](https://raw.githubusercontent.com/jeffersongoncalves/evolutionkitv5/main/art/jeffersongoncalves-evolutionkitv5.png)
+![EvolutionKit v5](https://raw.githubusercontent.com/jeffersongoncalves/evolutionkitv5/main/art/jeffersongoncalves-evolutionkitv5.png)
 
 </div>
 
