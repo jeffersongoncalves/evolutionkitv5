@@ -23,7 +23,7 @@
         "jeffersongoncalves/filament-logo": "^3.0",
         "joaopaulolndev/filament-edit-profile": "^3.0",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1",
+        "laravel/tinker": "^3.0.0",
         "livewire/livewire": "^4.0",
         "wallacemartinss/filament-icon-picker": "^2.0",
         "wallacemartinss/filament-whatsapp-conector": "^2.0"
